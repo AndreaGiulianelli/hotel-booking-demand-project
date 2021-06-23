@@ -1,5 +1,5 @@
 # Hotel booking demand
-***Hotel booking demand*: Predirre le cancellazioni delle prenotazioni** \
+***Hotel booking demand*: Predire le cancellazioni delle prenotazioni** \
 *Progetto di Programmazione di applicazioni Data Intensive* \
 Corso: Ingegneria e scienze informatiche, Cesena \
 *Andrea Giulianelli*
@@ -14,4 +14,4 @@ Il dataset contiene prenotazioni che vanno da Luglio 2015 ad Agosto 2017 include
 
 Entrambi gli hotel analizzati si trovano in Portogallo, precisamente H1 è un resort in Algarve, mentre H2 è un hotel nella città di Lisbona.
 
-**L'obiettivo di questo progetto è predirre la cancellazione delle prenotazioni**; perciò la variabile da predirre è **discreta binaria** (cancellata/non cancellata).
+**L'obiettivo di questo progetto è predire la cancellazione delle prenotazioni**; perciò la variabile da predire è **discreta binaria** (cancellata/non cancellata).
